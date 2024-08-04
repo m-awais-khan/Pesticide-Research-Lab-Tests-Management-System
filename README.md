@@ -1,6 +1,6 @@
 # `Pestcouts` Pesticide Research Lab Tests Management System
 
-The **Pestcouts Pesticide Research Lab Test Management System** is a command-line application that allows users at Pestcouts Pesticide Research Lab to manage and track test values for different fields. Researchers can insert, delete, and display test values for various fields, calculate statistics, and more. **By the way this is my 2nd semester project of BSCS**
+The **Pestcouts Pesticide Research Lab Test Management System** is a command-line application that allows users at Pestcouts Pesticide Research Lab to manage and track test values for different fields. Researchers can insert, delete, and display test values for various fields, calculate statistics, and more. **This is my 2nd semester project of BSCS**
 
 ## Table of Contents
 
